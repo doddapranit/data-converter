@@ -7,7 +7,7 @@ The client (React app) and the server (Node server) must be run on different por
 
 To get the repository onto your machine, you'll want to clone it with the following bash command:
 ```
-git clone https://github.gatech.edu/sbuckley31/gtwebdev-data-converter-team-A.git
+git clone https://github.com/doddapranit/data-converter.git
 ```
 
 Next, you'll want to install any dependencies in both the client and server applications. To do so, you'll want to run the following:
